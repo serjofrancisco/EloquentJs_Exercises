@@ -10,5 +10,5 @@ for (let i = 0; i < size; i+=1) {
   }
   board += "\n";
 }
-console.log(board);
+return board;
 };
